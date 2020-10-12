@@ -1,5 +1,5 @@
 baseurl = "https://daiwata.github.io/hugo-sample/"
-title = "Site Name"
+title = "Hugo Sample"
 languageCode = "site language code"
 copyright = "Copyright right infomation."
 themesdir = "themes"
