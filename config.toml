@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://daiwata.github.io/hugo-sample/"
 title = "Site Name"
 languageCode = "site language code"
 copyright = "Copyright right infomation."
